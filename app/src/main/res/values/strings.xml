@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unidad4_Eje2 JM_B</string>
+    <string name="titulo">Click on the Gun</string>
+    <string name="pistola">LaserGun</string>
+    <string name="bomba">bomba</string>
+    <string name="metralleta">SoundPool</string>
+    <string name="pistolaboton">pistola</string>
+    <string name="pistolaRadio">Pool con radio Button</string>
+    <string name="balas">Cantidad de disparos</string>
+    <string name="metralletas">metralleta</string>
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+
+</resources>
